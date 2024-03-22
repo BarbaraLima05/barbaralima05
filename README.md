@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+About me
+
+Sou Barbara Lima de Oliveira, tenho 21 anos de idade. Sou estudante de Análise e Desenvolvimento de Sistemas, e as área que tenho mais interesse de seguir profissionalmente é em Bancos de Dados.
